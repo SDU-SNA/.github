@@ -1,0 +1,24 @@
+# 资助信息
+
+# 这个文件用于在 GitHub 上显示"Sponsor"按钮
+# 更多信息: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
+
+# 支持的平台:
+# github: [用户名1, 用户名2]
+# patreon: 用户名
+# open_collective: 项目名
+# ko_fi: 用户名
+# tidelift: npm/包名
+# community_bridge: 项目名
+# liberapay: 用户名
+# issuehunt: 用户名
+# otechie: 用户名
+# lfx_crowdfunding: 项目名
+# custom: ['链接1', '链接2']
+
+# SDU-SNA 资助配置示例:
+# github: [SDU-SNA]
+# custom: ['https://example.com/donate', 'https://example.com/sponsor']
+
+# 如果你们有资助渠道,请取消注释并填写相应信息
+# 如果暂时不需要,可以删除此文件

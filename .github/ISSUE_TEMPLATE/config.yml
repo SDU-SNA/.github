@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 讨论区
+    url: https://github.com/SDU-SNA/.github/discussions
+    about: 加入社区讨论,分享想法和经验
+  - name: 📖 文档
+    url: https://github.com/SDU-SNA
+    about: 查看项目文档和使用指南
+  - name: 🔒 安全问题
+    url: https://github.com/SDU-SNA/.github/blob/main/SECURITY.md
+    about: 报告安全漏洞(请勿在公开 Issue 中报告)
